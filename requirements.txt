@@ -1,0 +1,5 @@
+Django==1.4.1
+distribute==0.6.27
+wsgiref==0.1.2
+rpc4django==0.1.12
+docutils==0.9.1
