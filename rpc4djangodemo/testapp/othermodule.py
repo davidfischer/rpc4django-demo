@@ -19,7 +19,7 @@ def intro():
     ::
     
         >>> from xmlrpclib import ServerProxy
-        >>> s = ServerProxy('http://rpc4django.davidfischer.name/')
+        >>> s = ServerProxy('http://rpc4django-demo.herokuapp.com/')
         >>> s.system.listMethods()
     
     Features
