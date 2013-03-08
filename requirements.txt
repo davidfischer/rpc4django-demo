@@ -1,8 +1,6 @@
 Django==1.5.0
-distribute==0.6.27
-wsgiref==0.1.2
 dj-database-url==0.2.1
 psycopg2==2.4.5
 docutils==0.9.1
-
 rpc4django==0.2.1
+gunicorn==0.17.2
